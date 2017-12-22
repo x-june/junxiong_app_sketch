@@ -1,0 +1,74 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "D5FCDF32-07A1-486B-828C-593B5124AE89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "37DD2757-3567-43C4-A76E-FAE14BFE6B1A",
+    "height": 446,
+    "width": 446,
+    "x": 33,
+    "y": 33
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "61ABDE61-B028-4BD0-BB1E-06A464614A0B"
+    },
+    {
+      "class": "oval",
+      "id": "6427D370-1591-47A6-96C0-9332FE4279A3"
+    },
+    {
+      "class": "oval",
+      "id": "8D726733-39CD-4D25-AE1A-EAF3B5296030"
+    }
+  ],
+  "name": "Rings",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 1
+        },
+        "do_objectID": "AF242716-214F-406C-958D-30D2F039E896",
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 2
+      }
+    ],
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

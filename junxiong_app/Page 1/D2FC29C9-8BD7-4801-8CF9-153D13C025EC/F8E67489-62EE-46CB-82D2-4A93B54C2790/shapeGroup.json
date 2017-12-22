@@ -1,0 +1,109 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "F8E67489-62EE-46CB-82D2-4A93B54C2790",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9ABEFCA6-D0DC-4AE7-9B7D-F657C9EFEB44",
+    "height": 167,
+    "width": 167,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F9FA0308-8E4F-4CA0-9CED-42D4E84E3E69"
+    }
+  ],
+  "name": "App Icon Shape",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 18.91304347826087,
+      "type": 0
+    },
+    "do_objectID": "FC9F21E9-CF40-48C4-853B-E1C53B8FA84B",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 1,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "shouldSmoothenOpacity": false,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9058823529411765,
+                "green": 0.8901960784313725,
+                "red": 0.8235294117647058
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.7019607843137254,
+                "green": 0.7019607843137254,
+                "red": 0.6705882352941176
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "9C57551F-213D-4DBB-8133-86BD220F6418",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

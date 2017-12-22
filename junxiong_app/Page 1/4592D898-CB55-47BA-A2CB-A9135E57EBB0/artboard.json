@@ -1,0 +1,122 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "4592D898-CB55-47BA-A2CB-A9135E57EBB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C476C3E-85C9-49BD-A68A-DC0702E834FF",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 512,
+    "width": 512,
+    "x": 649,
+    "y": -2108
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      390,
+      464,
+      122,
+      48
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AFF98A93-B276-42E9-B7F8-E5B0950AAC6D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F820D75E-9AE8-4ABF-BD5C-D6FCB28EA518"
+    },
+    {
+      "class": "group",
+      "id": "F301A402-385F-469D-A4F2-B3C1E54233A4"
+    }
+  ],
+  "name": "Assets/App Icon/iTunesArtwork",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "do_objectID": "11E7291B-41AF-4243-85BC-47AE85EC52EF",
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      122,
+      390,
+      48,
+      464
+    ]
+  }
+}

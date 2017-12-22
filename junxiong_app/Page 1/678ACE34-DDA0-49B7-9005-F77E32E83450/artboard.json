@@ -1,0 +1,92 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "678ACE34-DDA0-49B7-9005-F77E32E83450",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B28B754C-025D-4981-A8BE-9DA555A31578",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "34E07492-EFCD-4C1D-8F4D-E139FA7A6689",
+    "height": 60,
+    "width": 60,
+    "x": 1326,
+    "y": -908
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7E1B5FF3-C98A-4871-AD4D-12CAA2B9C99E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "13605052-B872-463A-8DD5-0B2834A30BD6"
+    }
+  ],
+  "name": "Assets/App Icon/Icon-Small-60",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7D8558C9-3D47-486A-B8AD-3E83C3F1B153",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.171875,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
